@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google_page_react/static/css/main.af0b9650.chunk.css",
+    "main.js": "/google_page_react/static/js/main.55564543.chunk.js",
+    "main.js.map": "/google_page_react/static/js/main.55564543.chunk.js.map",
+    "runtime-main.js": "/google_page_react/static/js/runtime-main.cac31b01.js",
+    "runtime-main.js.map": "/google_page_react/static/js/runtime-main.cac31b01.js.map",
+    "static/js/2.6282c24c.chunk.js": "/google_page_react/static/js/2.6282c24c.chunk.js",
+    "static/js/2.6282c24c.chunk.js.map": "/google_page_react/static/js/2.6282c24c.chunk.js.map",
+    "index.html": "/google_page_react/index.html",
+    "static/css/main.af0b9650.chunk.css.map": "/google_page_react/static/css/main.af0b9650.chunk.css.map",
+    "static/js/2.6282c24c.chunk.js.LICENSE.txt": "/google_page_react/static/js/2.6282c24c.chunk.js.LICENSE.txt",
+    "static/media/dots.71cb50bb.PNG": "/google_page_react/static/media/dots.71cb50bb.PNG",
+    "static/media/profile.844958ee.PNG": "/google_page_react/static/media/profile.844958ee.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cac31b01.js",
+    "static/js/2.6282c24c.chunk.js",
+    "static/css/main.af0b9650.chunk.css",
+    "static/js/main.55564543.chunk.js"
+  ]
+}
